@@ -1,11 +1,11 @@
 {
-    "name": "X-Troid",
+    "name": "datamruwo-bot🇱🇰",
     "description": "World first Sinhala Whatsapp User bot ",
     "logo": "https://telegra.ph/file/9298dc3611d056b85b63b.jpg",
-    "keywords": ["whatsapp", "userbot", "X-Troid", "Danuma", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "datamruwo-bot🇱🇰", "datamruwo ", "bot", "api", "ai"],
     "repository": "",
-    "website":   "https://lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+   L
+    "success_url": "https://t.me/datamaruwo1",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -69,7 +69,7 @@
             "description": "මෙම වෙබ් අඩවියෙන් ඔබගේ api එක සාදාගන්න. https://remove.bg",
             "required": false
         },
-        "ALIVE_MESSAGE": {
+        "ALIVE_MESSAGE Datamaruwo-bot": {
             "description": "සක්‍රීය පනිවිඩය.  Customizable Alive Message! Use => default, to change back.",
             "required": false,
             "value": "default"
